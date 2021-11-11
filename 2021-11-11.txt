@@ -4,23 +4,76 @@
 1. 오전
 	- 블로그
 		- 출퇴근길 개발 읽기 
-		- 
+		
 		-  https://velog.io/@offdutybyblo/전지적 비전공자 시점의 CS
 		- 8번 아티클 (CORS관련) 까지 완료
 		
 
 	- 학원
 		- SQL 어제 문제 복기
-		- distinct 구문
-	
+		- distinct
+		- order
+		- aggregation_functoin : count
 
 
 2. 개인
+	- 자바의 정석
+		- 방식 수정 : 빠르게 훑고, 동영상 강의로 보충
+		- done : ~648p
 
-- 자바 복습
-	- 예외 처리
-	- object 클래스
-	- 각종 클래스  (9장)
 
-- 자바 동영상 강의
-	- 남궁성 7장 1,2,3,4
+3. 추가
+	- 스프링의 정석 수강 계획
+		-> 쿠폰 : 우아한 형제들 javascript
+
+
+4. 방향 수정
+	- 블로그, DAILY FEED 아직 내용 NO
+		: 제목만 훑기. 용어 눈에 익히기 용도
+	
+	- 우선순위 : 공식 문서
+		- CS 기술면접 대비
+			1) 우아한 테크톡
+				: https://www.youtube.com/watch?v=1xJU8HfBREY&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH
+			2) 테크 인터뷰
+				- https://gyoogle.dev/blog/
+
+			3) Technical Interview Guidelines for Beginners
+				- https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+
+			4) 문답형 테크 인터뷰(심화)
+				: https://github.com/WeareSoft/tech-interview
+			5) 리버스 인터뷰
+				: https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Reverse_Interview
+				: https://brunch.co.kr/@goodgdg/142
+
+			
+
+
+		- 알고리즘
+			1) 책으로 먼저 목차를 잡자
+				: 자바로 배우는 쉬운 자료구조
+				: 알고리즘 도감
+				: 누워서 읽는 알고리즘
+				: 누구나 자료구조와 알고리즈
+				: 코딩인터뷰 완전분석 (미국의 정석책)
+			2) 인프런 무료 강의
+				: 영리한 프로그래밍을 위한 알고리즘 강좌
+			3) 유투브
+				: 엔지니어대한민국
+
+			4) leetcode
+				: 어느정도 파악됐으면 빨리 풀기 시작
+				: discussion에 글쓰고, 다른사람 글 댓글도 달고 -> 오픈소스 기여 -> TIC (오늘의 기여)에 추가 기록			
+
+			5) coursera 강의 : 시간남으면? 하루에 하나?
+				- 알고리즘 part1&2 (프린스턴) 
+					: 한국어 번역 유일
+					: https://www.coursera.org/learn/algorithms-part1
+					: https://www.coursera.org/learn/algorithms-part2
+
+
+5. 그래서 내일 계획은?
+	- 자바의 정석 동영상 
+	- 학원 수업
+	- 자바의 정석 pdf
