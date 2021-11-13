@@ -1,0 +1,6 @@
+2021-11-13
+
+1. Standard of Java 
+	: OOP Part2 video lecture 
+
+2. and that's it!
